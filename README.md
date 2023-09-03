@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoozbehD
-- 👀 I’m interested in ...ethereum
-- 🌱 I’m currently learning ...solidity
+- 👀 I’m interested in ...nothing
+- 🌱 I’m currently learning ...golang
 - 💞️ I’m looking to collaborate on ...
 - 📫  
 
